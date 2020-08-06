@@ -2,7 +2,7 @@
 
 ## I'm a Developer
 - 🔭 I’m currently working on a open source project [Pain Monitoring - Debbie][project]!
-- 🌱 I’m currently learning Flutter 
+- 🌱 I’m currently learning Flutter and Google DialogFlow 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to write journal, play basketball, table tennis, read Shri Bhagavad Gita
