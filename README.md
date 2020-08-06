@@ -1,4 +1,4 @@
-## Hi there, I'm Uday - [Portfolio][wesbite] 👋
+## Hi there, I'm Uday - Portfolio[website] 👋
 
 ## I'm a Developer
 - 🔭 I’m currently working on a [Debbie Project][https://github.com/coding-cohort/Web-App-Repo]!
