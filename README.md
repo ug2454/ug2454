@@ -1,7 +1,7 @@
 ## Hi there, I'm Uday - [Portfolio][website] 👋
 
 ## I'm a Developer
-- 🔭 I’m currently working on a [Debbie Project][project]!
+- 🔭 I’m currently working on a open source project [Pain Monitoring - Debbie][project]!
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
