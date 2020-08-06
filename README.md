@@ -1,7 +1,7 @@
-## Hi there, I'm Uday - Portfolio[website] 👋
+## Hi there, I'm Uday - [Portfolio][website] 👋
 
 ## I'm a Developer
-- 🔭 I’m currently working on a [Debbie Project][https://github.com/coding-cohort/Web-App-Repo]!
+- 🔭 I’m currently working on a [Debbie Project][project]!
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -44,3 +44,4 @@
 [twitter]: https://twitter.com/TheRealMecazor
 [instagram]: https://www.instagram.com/mecazor11/
 [linkedin]: https://www.linkedin.com/in/uday11garg/
+[project]: https://github.com/coding-cohort/Web-App-Repo
