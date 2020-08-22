@@ -40,7 +40,7 @@
 
 <img align="left" alt="Uday's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ug2454&show_icons=true&hide_border=true" />
 
-[website]: https://portfolio-c4ba4.web.app/
+[website]: https://portfoliouday.web.app/
 [twitter]: https://twitter.com/TheRealMecazor
 [instagram]: https://www.instagram.com/mecazor11/
 [linkedin]: https://www.linkedin.com/in/uday11garg/
