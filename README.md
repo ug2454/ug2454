@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning Flutter and Google DialogFlow 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
+- Published my first app on Play Store - [Climatic][climatic]!
 - ⚡ Fun fact: I love to write journal, play basketball, table tennis, read Shri Bhagavad Gita
 
 <br />
@@ -45,3 +46,4 @@
 [instagram]: https://www.instagram.com/mecazor11/
 [linkedin]: https://www.linkedin.com/in/uday11garg/
 [project]: https://github.com/coding-cohort/Web-App-Repo
+[climatic]:https://play.google.com/store/apps/details?id=co.udayweather.climatic
