@@ -34,7 +34,7 @@
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
-<img align="left" alt="Flutter" width="26px" src="https://n7.nextpng.com/sticker-png/748/102/sticker-png-dialogflow-conversational-user-interfaces-chatbot-artificial-intelligence-wit-ai-inc-majordomo-angle-rectangle-orange-alternativeto.png" />
+<img align="left" alt="Flutter" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7gBb442l5rUKAyXqvAl6Pk9M2K3XN9Dg_vw&usqp=CAU" />
 <img align="left" alt="Flutter" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
 
 <br />
