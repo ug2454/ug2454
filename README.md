@@ -45,5 +45,5 @@
 [twitter]: https://twitter.com/TheRealMecazor
 [instagram]: https://www.instagram.com/mecazor11/
 [linkedin]: https://www.linkedin.com/in/uday11garg/
-[project]: https://github.com/coding-cohort/Web-App-Repo
+[project]: https://github.com/coding-cohort/Mobile-App-Repo
 [climatic]:https://play.google.com/store/apps/details?id=co.udayweather.climatic
