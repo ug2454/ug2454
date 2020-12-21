@@ -2,7 +2,7 @@
 
 ## I'm a Developer
 - 🔭 I’m currently working on a open source project [Pain Monitoring - Debbie][project]!
-- 🌱 I’m currently learning Flutter and Google DialogFlow 
+- 🌱 I’m currently learning Native Android Development, Flutter and Google DialogFlow 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - Published my first app on Play Store - [Climatic][climatic]!
@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="udaysite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="udaysite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="white" />][website]
 [<img align="left" alt="uday | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="uday | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="uday | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
