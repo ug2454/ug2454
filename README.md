@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on a open source project [Pain Monitoring - Debbie][project]!
 - 🌱 I’m currently learning Native Android Development, Flutter and Google DialogFlow 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn Native android development and IOS development
 - Published my first app on Play Store - [Climatic][climatic]!
 - ⚡ Fun fact: I love to write journal, play basketball, table tennis, read Shri Bhagavad Gita
 
@@ -36,6 +36,7 @@
 <img align="left" alt="Flutter" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png" />
 <img align="left" alt="Flutter" width="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7gBb442l5rUKAyXqvAl6Pk9M2K3XN9Dg_vw&usqp=CAU" />
 <img align="left" alt="Flutter" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-vertical.png" />
+<img align="left" alt="Android" width="26px" src="https://firebasestorage.googleapis.com/v0/b/whatsapp-722cb.appspot.com/o/Android-Logo.png?alt=media&token=84bc3a33-bb3d-4ac3-bbb4-8d8a909a1747" />
 
 <br />
 <br />
