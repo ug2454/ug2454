@@ -1,4 +1,4 @@
-## Hi there, I'm Uday - [Portfolio][website] 👋
+## Hi there, I'm ウダイ - [Portfolio][website] 👋
 
 ## I'm a Developer
 - 🔭 I’m currently working on a open source project [Pain Monitoring - Debbie][project]!
