@@ -1,12 +1,11 @@
 ## Hi there, I'm ウダイ - [Portfolio][website] 👋
 
 ## I'm a Developer
-- 🔭 I’m currently working on a open source project [Pain Monitoring - Debbie][project]!
-- 🌱 I’m currently learning Native Android Development, Flutter and Google DialogFlow 
+- 🔭 I’m currently working on a project [medicator]
+- 🌱 I’m currently learning React and Go 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn Native android development and IOS development
-- Published my first app on Play Store - [Climatic][climatic]!
-- ⚡ Fun fact: I love to write journal, play basketball, table tennis, read Shri Bhagavad Gita
+- 🥅 2025 Goals: Learn Xcode and ios app development
+- ⚡ Fun fact: I love to write journal, play chess, table tennis, read Shri Bhagavad Gita, composing music, voice acting, reading books, playing video games
 
 <br />
 <br />
@@ -14,7 +13,6 @@
 ### Connect with me:
 
 [<img align="left" alt="udaysite" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" color="white" />][website]
-[<img align="left" alt="uday | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="uday | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="uday | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -45,9 +43,8 @@
 
 <img align="left" alt="Uday's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ug2454&show_icons=true&hide_border=true" />
 
-[website]: https://portfoliouday.000webhostapp.com/
-[twitter]: https://twitter.com/TheRealMecazor
+[website]: [https://portfoliouday.000webhostapp.com/](https://medicator.vercel.app/)
 [instagram]: https://www.instagram.com/mecazor11/
 [linkedin]: https://www.linkedin.com/in/uday11garg/
 [project]: https://github.com/coding-cohort/Mobile-App-Repo
-[climatic]:https://play.google.com/store/apps/details?id=co.udayweather.climatic
+[medicator]: https://medicator.vercel.app/
