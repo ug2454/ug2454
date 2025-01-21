@@ -1,4 +1,4 @@
-## Hi there, I'm ウダイ - [Portfolio][website] 👋
+## Hi there, I'm Uday - [website] 👋
 
 ## I'm a Developer
 - 🔭 I’m currently working on a project [medicator]
