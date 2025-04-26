@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React and Go 
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2025 Goals: Learn Xcode and ios app development
-- ⚡ Fun fact: I love to write journal, play chess, table tennis, read Shri Bhagavad Gita, composing music, voice acting, reading books, playing video games
+- ⚡ Fun fact: I love to write journal, play chess, table tennis, composing music, voice acting, reading books, playing video games
 
 <br />
 <br />
